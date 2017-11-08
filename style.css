@@ -6,7 +6,7 @@ body {
 	flex-wrap: wrap; 
 }
 .img {
-	content: url(images/brc.jpg);
+	content: url(brc.jpg);
 	height: 704px;
 	width: 100vw;
 }	
