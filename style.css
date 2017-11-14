@@ -3,7 +3,7 @@ body {
 }
 .img {
 	content: url(brc.jpg);
-	height: 704px;
+	height: calc(100%/3);
 	width: 100vw;
 }	
 .img2 {
