@@ -23,7 +23,7 @@ body {
 	}
 .box {
 	height: 300px;
-	width: 300px;
+	width: 100/3vw;
 	background-color: #FFA500;
 }
 
