@@ -6,7 +6,7 @@ body {
 .img {
 	content: url(brc.jpg);
 	height: 704px;
-	width: 30vw;
+	width: 100vw;
 }	
 .img2 {
 	content: url(images/brc1.jpg);
