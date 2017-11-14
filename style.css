@@ -19,6 +19,7 @@ body {
 	width: 100vw;
 	}
 .box {
+	height: calc(100%/3);
 	width: calc(100%/3);
 	background-color: #FFA500;
 }
