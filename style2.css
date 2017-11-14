@@ -1,14 +1,12 @@
 body {
 	margin: 0; 
-	height: 100vh;
-	width: 100vw;
 	display: flex;
 	flex-wrap: wrap; 
 }
 .img {
 	content: url(brc.jpg);
 	height: 704px;
-	width: 100vw;
+	width: 30vw;
 }	
 .img2 {
 	content: url(images/brc1.jpg);
