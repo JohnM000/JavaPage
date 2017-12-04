@@ -23,7 +23,7 @@ body {
 	height: calc(100%/2);
 	width: calc(100%/3);
 }
-img { 
+.img { 
 	content: url(brc1.jpg);
 }
 
