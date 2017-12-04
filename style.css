@@ -4,6 +4,40 @@ body {
 	margin: 0;
 	display: block;	
 }
+button{
+	content: url(images/brc.jpg);
+	background-color: none;
+}
+.img {
+	content: url(images/brc.jpg);
+}
+.img2 {
+	content: url(images/brc2.jpg);
+}
+.img3 {
+	content: url(images/brc3.jpg);
+}
+.img4 {
+	content: url(images/brc4.jpg);
+}
+.img5 {
+	content: url(images/brc5.jpg);
+}
+.img6 {
+	content: url(images/brc6.jpg);
+}
+.img7 {
+	content: url(images/brc7.jpg);
+}
+.img8 {
+	content: url(images/brc8.jpg);
+}
+.img9 {
+	content: url(images/brc9.jpg);
+}
+.img10 {
+	content: url(images/brc10.jpg);
+}
 .container {
 	display: flex;
 }
@@ -14,32 +48,12 @@ body {
 }
 
 .orange {
-	background-color: #84577E;
 	height: calc(100%/2);
 	width: calc(100%/3);
 }
 .purple {
-	background-color: #FFA500;
 	height: calc(100%/2);
 	width: calc(100%/3);
-}
-.img1 { 
-	content: url(brc.jpg);
-}
-.img2 { 
-	content: url(brc1.jpg);
-}
-.img3 { 
-	content: url(brc2.jpg);
-}
-.img4 { 
-	content: url(brc3.jpg);
-}
-.img5 { 
-	content: url(brc4.jpg);
-}
-.img6 { 
-	content: url(brc5.jpg);
 }
 
 @media screen and (max-width: 700px) {
@@ -58,5 +72,3 @@ body {
 		width: 100vw;
 	}
 }
-
-
