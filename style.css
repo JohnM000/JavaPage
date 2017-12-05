@@ -5,14 +5,14 @@ body {
 	display: block;	
 }
 button{
-	content: url(images/brc.jpg);
+	content: url(brc.jpg);
 	background-color: none;
 }
 .img {
-	content: url(images/brc.jpg);
+	content: url(brc.jpg);
 }
 .img2 {
-	content: url(images/brc2.jpg);
+	content: url(brc2.jpg);
 }
 .img3 {
 	content: url(images/brc3.jpg);
