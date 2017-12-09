@@ -8,3 +8,6 @@ function playAchy(e){
 function playFleas(e){
 	document.getElementById("dogs-fleas").play();
 }
+function playDoggies(e){
+	document.getElementById("yee-doggies").play();
+}
