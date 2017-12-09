@@ -5,6 +5,6 @@ function playMullet(e){
 function playAchy(e){
 	document.getElementById("achy-breaky").play();
 }
-function playDang(e){
-	document.getElementById("crowd-noise").play();
+function playFleas(e){
+	document.getElementById("dogs-fleas").play();
 }
