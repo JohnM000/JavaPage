@@ -2,8 +2,8 @@
 function playMullet(e){
 	document.getElementById("mullet-back").play();
 }
-function playCheer(e){
-	document.getElementById("crowd-noise").play();
+function playAchy(e){
+	document.getElementById("achy-breaky").play();
 }
 function playDang(e){
 	document.getElementById("crowd-noise").play();
