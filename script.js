@@ -11,3 +11,9 @@ function playFleas(e){
 function playDoggies(e){
 	document.getElementById("yee-doggies").play();
 }
+function playFlabbit(e){
+	document.getElementById("dang-flabbit").play();
+}
+function playNibblets(e){
+	document.getElementById("sweet-nibblets").play();
+}
