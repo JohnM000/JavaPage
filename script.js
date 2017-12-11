@@ -17,3 +17,14 @@ function playFlabbit(e){
 function playNibblets(e){
 	document.getElementById("sweet-nibblets").play();
 }
+ function changeImage() {
+
+        if (document.getElementById("imgClickAndChange").src = "") 
+        {
+            document.getElementById("imgClickAndChange").src = "";
+        }
+        else 
+        {
+            document.getElementById("imgClickAndChange").src = "";
+        }
+    }
