@@ -17,14 +17,3 @@ function playFlabbit(e){
 function playNibblets(e){
 	document.getElementById("sweet-nibblets").play();
 }
- function changeImage(e) {
-
-        if (document.getElementById("imgClickAndChange").src = "brc.jpg") 
-        {
-            document.getElementById("imgClickAndChange").src = "mosaic1.jpg";
-        }
-        else 
-        {
-            document.getElementById("imgClickAndChange").src = "mosaic1.jpg";
-        }
-    }
